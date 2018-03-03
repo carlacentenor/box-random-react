@@ -7,6 +7,6 @@ La siguiente página web muestra un contenedor que cambia aleatoriamente de colo
 
 En el componente Content se encuentran las dos funciones utilizadas para esta página web, y su implementación se desarrollo con  JSX en cada elemento correspondiente.
 
-![Con titulo](https://user-images.githubusercontent.com/32285482/36937516-ab1817ee-1ee2-11e8-8d15-3e87e297bbf4.png "Box")
+![Con titulo](https://user-images.githubusercontent.com/32285482/36938596-d778eab6-1ef1-11e8-8cc3-9dacea6c9c0f.gif "Box")
 
 Desarrollado por Carla Centeno Ramos
