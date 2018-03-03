@@ -1,0 +1,39 @@
+.h70 {
+  height: 50vh;
+}
+
+.h30 {
+  height: 30vh;
+}
+
+.box {
+  border-radius: 20px;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 6px solid black;
+}
+
+.box p {
+  font-size: 5em;
+  color: white;
+}
+
+.style-1 {
+  font-family: 'Indie Flower', cursive;
+}
+
+.style-2 {
+  font-family: 'Lobster', cursive;
+}
+
+.style-3 {
+  font-family: 'Pacifico', cursive;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
